@@ -6,3 +6,5 @@ bgImage.onload = () => {
   bgReady = true;
 };
 bgImage.src = "images/background.png";
+
+module.exports = BackgroundImage;

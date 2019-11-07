@@ -17,3 +17,5 @@ addEventListener(
   },
   false
 );
+
+module.exports = KeyboardControls;
